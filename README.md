@@ -1,6 +1,6 @@
 # IAMGROOT Translation Web App
 Ever wondered what Groot speaks? Wanted to speak in that langauage too?
-So I made an app which will help you in translating english to banana.
+So I made an app which will help you in translating english to Groot language.
 
 Try it [here](https://english-to-iamgroot-translation.netlify.app/)
 
